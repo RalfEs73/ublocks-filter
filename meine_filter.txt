@@ -1,3 +1,21 @@
+! Title: uBlock₀ filters
+! Description: Filters optimized for uBlock, to be used along EasyList
+! Expires: 4 days
+! Last modified: Wed, 01 Mar 2023 00:37:09 +0000
+! Homepage: https://github.com/uBlockOrigin/uAssets
+! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
+!
+! GitHub issues: https://github.com/uBlockOrigin/uAssets/issues
+! GitHub pull requests: https://github.com/uBlockOrigin/uAssets/pulls
+
+! https://github.com/chrisaljoudi/uBlock/issues/57
+! https://github.com/chrisaljoudi/uBlock/issues/98
+! New filter class: entity filters, where entity = domain minus public suffix
+! The following filters were taken out of EasyList and given an entity name,
+! which makes them candidates to be injected early in the page.
+! Last imported: 2022-10-17
+
+
 ! 2023-03-05 https://feedly.com
 feedly.com##.TopHeaderBar
 feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(3)
