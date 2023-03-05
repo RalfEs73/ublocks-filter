@@ -1,12 +1,8 @@
-! Title: uBlock₀ filters
+! Title: Ralfs Filters
 ! Description: Filters optimized for uBlock, to be used along EasyList
-! Expires: 4 days
+! Expires: 360 days
 ! Last modified: Wed, 01 Mar 2023 00:37:09 +0000
-! Homepage: https://github.com/uBlockOrigin/uAssets
-! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
-!
-! GitHub issues: https://github.com/uBlockOrigin/uAssets/issues
-! GitHub pull requests: https://github.com/uBlockOrigin/uAssets/pulls
+! Homepage: https://github.com/RalfEs73/ublocks-filter
 
 ! https://github.com/chrisaljoudi/uBlock/issues/57
 ! https://github.com/chrisaljoudi/uBlock/issues/98
