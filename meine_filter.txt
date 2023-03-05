@@ -1,15 +1,6 @@
 ! Title: Ralfs Filters
 ! Description: Filters optimized for uBlock, to be used along EasyList
-! Expires: 360 days
-! Last modified: Wed, 01 Mar 2023 00:37:09 +0000
-! Homepage: https://github.com/RalfEs73/ublocks-filter
 
-! https://github.com/chrisaljoudi/uBlock/issues/57
-! https://github.com/chrisaljoudi/uBlock/issues/98
-! New filter class: entity filters, where entity = domain minus public suffix
-! The following filters were taken out of EasyList and given an entity name,
-! which makes them candidates to be injected early in the page.
-! Last imported: 2022-10-17
 
 
 ! 2023-03-05 https://feedly.com
