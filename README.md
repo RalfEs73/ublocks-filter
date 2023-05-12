@@ -10,5 +10,6 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/meine_filter.txt
 * feedly.com
 * heise.de
 * justwatch.com
+* kleinanzeigen.de
 * stakecube.net
 
