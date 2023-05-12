@@ -16,5 +16,11 @@ www.justwatch.com##.promoted-buybox
 www.justwatch.com##.sponsored-recommendation-poster.title-poster
 www.justwatch.com##.sponsored-recommendation-poster-wrapper
 
+! https://www.kleinanzeigen.de
+www.kleinanzeigen.de##.carousel.tilesbox-featured.l-container-row.a-double-margin
+www.kleinanzeigen.de##.tilesbox.l-container-row.a-double-margin
+www.kleinanzeigen.de##.buyer-protection-info.jsx-1924605607
+www.kleinanzeigen.de###viewad-details
+
 ! https://stakecube.net
 stakecube.net##.text-danger.text-center.d-block
