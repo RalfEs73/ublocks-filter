@@ -10,4 +10,6 @@ stakecube.net##.text-danger.text-center.d-block
 
 ! https://www.justwatch.com/
 www.justwatch.com##.promoted-buybox
+www.justwatch.com##.sponsored-recommendation-poster.title-poster
+www.justwatch.com##.sponsored-recommendation-poster-wrapper
 
