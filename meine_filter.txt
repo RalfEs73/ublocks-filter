@@ -1,4 +1,4 @@
-! Title: Ralfs Filters
+! Title: RalfEs Filters
 ! Description: Filters optimized for uBlock.
 
 ! https://feedly.com
