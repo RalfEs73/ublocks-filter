@@ -15,4 +15,5 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/meine_filter.txt
 * justwatch.com
 * kleinanzeigen.de
 * stakecube.net
+* zdnet.de
 
