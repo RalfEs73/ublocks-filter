@@ -24,3 +24,6 @@ www.kleinanzeigen.de###viewad-details
 
 ! https://stakecube.net
 stakecube.net##.text-danger.text-center.d-block
+
+! https://www.zdnet.de
+www.zdnet.de##.nl
