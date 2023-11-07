@@ -5,6 +5,9 @@
 ! https://bitcoin-2go.de
 bitcoin-2go.de##.subscribe-section
 
+! https://coinmarketcap.com
+coinmarketcap.com##.block-newsletter.kwbHdq.sc-f70bb44c-0
+
 ! https://feedly.com
 feedly.com##.TopHeaderBar
 feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(3)
