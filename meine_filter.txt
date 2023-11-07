@@ -1,5 +1,6 @@
 ! Title: RalfEs Filters
 ! Description: Filters optimized for uBlock.
+! Homepage: https://github.com/RalfEs73/ublocks-filter
 
 ! https://bitcoin-2go.de
 bitcoin-2go.de##.subscribe-section
