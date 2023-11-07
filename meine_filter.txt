@@ -1,6 +1,9 @@
 ! Title: RalfEs Filters
 ! Description: Filters optimized for uBlock.
 
+! https://bitcoin-2go.de
+bitcoin-2go.de##.subscribe-section
+
 ! https://feedly.com
 feedly.com##.TopHeaderBar
 feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(3)
