@@ -13,6 +13,7 @@ www.heise.de##.dark\:bg-gray-900.bg-gray-50.-mx-3.p-3
 www.heise.de###wtma_teaser_ho_vertrieb_inline_branding
 www.heise.de##.theme-heiseplus.xl\:z-\[var\(--z-index-sticky-footer--desktop\)\].z-\[var\(--z-index-sticky-footer\)\].inset-x-0.group-open
 www.heise.de##.article-sidebar__item--margin-top.article-sidebar__item.article-newsletter-subscription
+www.heise.de##.topnavigation__logo > .header-logo__plus-group
 
 ! https://www.justwatch.com
 www.justwatch.com##.promoted-buybox
