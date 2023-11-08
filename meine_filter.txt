@@ -9,6 +9,9 @@ bitcoin-2go.de##.subscribe-section
 coinmarketcap.com##.block-newsletter.kwbHdq.sc-f70bb44c-0
 coinmarketcap.com##.isgIpZ.sc-f70bb44c-0
 
+! https://www.dexlab.space
+||ad-banner.walkmining.com/external/dexlab/walkmining_get_code.png$image
+
 ! https://feedly.com
 feedly.com##.TopHeaderBar
 feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(3)
