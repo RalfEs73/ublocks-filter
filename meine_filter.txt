@@ -11,6 +11,7 @@ coinmarketcap.com##.isgIpZ.sc-f70bb44c-0
 
 ! https://www.dexlab.space
 ||ad-banner.walkmining.com/external/dexlab/walkmining_get_code.png$image
+||ad-banner.walkmining.com/external/dexlab/walkmining_get_code_1256.png$image
 
 ! https://feedly.com
 feedly.com##.TopHeaderBar
