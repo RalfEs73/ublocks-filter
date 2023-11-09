@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/meine_filter.txt
 * heise.de
 * justwatch.com
 * kleinanzeigen.de
+* krypto-magazin.de
 * stakecube.net
 * zdnet.de
 
