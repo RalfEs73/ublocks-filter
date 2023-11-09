@@ -38,6 +38,10 @@ www.kleinanzeigen.de##.tilesbox.l-container-row.a-double-margin
 www.kleinanzeigen.de##.buyer-protection-info.jsx-1924605607
 www.kleinanzeigen.de###viewad-details
 
+!  https://www.krypto-magazin.de
+www.krypto-magazin.de##div.card.intextbox:nth-of-type(3)
+www.krypto-magazin.de##div.card.intextbox:nth-of-type(6)
+
 ! https://stakecube.net
 stakecube.net##.text-danger.text-center.d-block
 
