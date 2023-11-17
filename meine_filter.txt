@@ -16,6 +16,7 @@ coinmarketcap.com##.isgIpZ.sc-f70bb44c-0
 ! https://feedly.com
 feedly.com##.TopHeaderBar
 feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(3)
+feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(4)
 
 ! https://www.heise.de
 www.heise.de##section.py-6.md\:px-6.px-4.jd-module.ho-text.ho-bg.md\:shadow-none.shadow-modules
