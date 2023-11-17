@@ -1,0 +1,5 @@
+! Title: RalfEs Badware
+! Description: Filters optimized for uBlock.
+! Homepage: https://github.com/RalfEs73/ublocks-filter
+
+||solflareweb.com^$doc
