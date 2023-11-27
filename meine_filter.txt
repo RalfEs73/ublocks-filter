@@ -46,6 +46,11 @@ www.kleinanzeigen.de###viewad-details
 www.krypto-magazin.de##div.card.intextbox:nth-of-type(3)
 www.krypto-magazin.de##div.card.intextbox:nth-of-type(6)
 
+!  https://www.nebenan.de
+nebenan.de##.KHCTIHUrZeSvmSf3z9Na
+nebenan.de##._6x940FSQtmxqz4OQrZl.ui-card
+nebenan.de##.ui-card.c-layout_menu > .c-layout_menu-banner.ui-media.QBDJ2r4nNvLl4dZ8uKsF
+
 ! https://stakecube.net
 stakecube.net##.text-danger.text-center.d-block
 
