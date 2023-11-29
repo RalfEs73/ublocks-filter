@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/betrügerische_se
 * kleinanzeigen.de
 * krypto-magazin.de
 * nebenan.de
+* solsea.io
 * stakecube.net
 * zdnet.de
 

@@ -51,6 +51,9 @@ nebenan.de##.KHCTIHUrZeSvmSf3z9Na
 nebenan.de##._6x940FSQtmxqz4OQrZl.ui-card
 nebenan.de##.ui-card.c-layout_menu > .c-layout_menu-banner.ui-media.QBDJ2r4nNvLl4dZ8uKsF
 
+! https://solsea.io
+solsea.io##.not-verified__InfoSection_2o5ly
+
 ! https://stakecube.net
 stakecube.net##.text-danger.text-center.d-block
 
