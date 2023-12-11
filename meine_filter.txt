@@ -57,5 +57,8 @@ solsea.io##.not-verified__InfoSection_2o5ly
 ! https://stakecube.net
 stakecube.net##.text-danger.text-center.d-block
 
+! https://stepn.guide
+||stepn.guide/img/banner_pc.webp$image
+
 ! https://www.zdnet.de
 www.zdnet.de##.nl

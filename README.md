@@ -29,5 +29,6 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/betrügerische_se
 * nebenan.de
 * solsea.io
 * stakecube.net
+* stepn.guide
 * zdnet.de
 
