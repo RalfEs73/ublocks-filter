@@ -4,3 +4,4 @@
 
 ||solflareweb.com^$doc
 ||whitelist-vate-fenx-90.shlnk.site^$doc
+||giveaway-trin-soft-31.nytdg.site^$doc
