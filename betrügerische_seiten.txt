@@ -3,3 +3,4 @@
 ! Homepage: https://github.com/RalfEs73/ublocks-filter
 
 ||solflareweb.com^$doc
+||whitelist-vate-fenx-90.shlnk.site^$doc
