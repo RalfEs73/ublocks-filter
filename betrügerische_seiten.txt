@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/RalfEs73/ublocks-filter
 
 ||akonline.info^$doc
+||giveaway-trin-soft-31.nytdg.site^$doc
+||solanaminer.io^$doc
 ||solflareweb.com^$doc
 ||whitelist-vate-fenx-90.shlnk.site^$doc
-||giveaway-trin-soft-31.nytdg.site^$doc
