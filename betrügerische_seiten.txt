@@ -2,7 +2,7 @@
 ! Description: Filters optimized for uBlock.
 ! Homepage: https://github.com/RalfEs73/ublocks-filter
 
-||akonline.info^$doc
-||solflareweb.com^$doc
-||whitelist-vate-fenx-90.shlnk.site^$doc
-||giveaway-trin-soft-31.nytdg.site^$doc
+||akonline.info
+||solflareweb.com
+||whitelist-vate-fenx-90.shlnk.site
+||giveaway-trin-soft-31.nytdg.site
