@@ -8,6 +8,7 @@
 ||serviceswlt.live^$doc
 ||solanaminer.io^$doc
 ||solflareweb.com^$doc
+||solflarewebext.com^$doc
 ||wejfhs.sbs^$doc
 ||whitelist-vate-fenx-90.shlnk.site^$doc
 
