@@ -2,9 +2,12 @@
 ! Description: Filters optimized for uBlock.
 ! Homepage: https://github.com/RalfEs73/ublocks-filter
 
+||2024jup.vip^$doc
 ||akonline.info^$doc
 ||giveaway-trin-soft-31.nytdg.site^$doc
 ||serviceswlt.live^$doc
 ||solanaminer.io^$doc
 ||solflareweb.com^$doc
+||wejfhs.sbs^$doc
 ||whitelist-vate-fenx-90.shlnk.site^$doc
+
