@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/RalfEs73/ublocks-filter
 
 ! https://www.basicthinking.de
-www.basicthinking.de###redaktion-661767688
 www.basicthinking.de##.newsletter-box
 www.basicthinking.de##.widget_bt_jobs2_widget.widget
 www.basicthinking.de###menu-item-177820328 > [href^="https://jobs.basicthinking.de//"]
