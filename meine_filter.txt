@@ -6,6 +6,7 @@
 www.basicthinking.de###redaktion-661767688
 www.basicthinking.de##.newsletter-box
 www.basicthinking.de##.widget_bt_jobs2_widget.widget
+www.basicthinking.de###menu-item-177820328 > [href^="https://jobs.basicthinking.de//"]
 
 ! https://bitcoin-2go.de
 bitcoin-2go.de##.subscribe-section
