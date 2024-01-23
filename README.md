@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/betrügerische_se
 
 
 ## Die folgenden Webseiten wurden berücksichtigt:
+* app.hotspotty.net
 * basicthinking.de
 * bitcoin-2go.de
 * coinmarketcap.com

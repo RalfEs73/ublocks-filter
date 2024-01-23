@@ -2,6 +2,9 @@
 ! Description: Filters optimized for uBlock.
 ! Homepage: https://github.com/RalfEs73/ublocks-filter
 
+! app.hotspotty.net
+||cdn-001.hotspotty.xyz/marketing/banners/$image
+
 ! https://www.basicthinking.de
 www.basicthinking.de##.newsletter-box
 www.basicthinking.de##.widget_bt_jobs2_widget.widget
