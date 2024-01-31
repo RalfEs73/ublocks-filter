@@ -41,6 +41,9 @@ www.heise.de##.topnavigation__logo > .header-logo__plus-group
 
 ! https://heliumtracker.io
 heliumtracker.io##.pointer-event.card.carousel
+heliumtracker.io##.flex-row.mr-auto.navbar-nav > .d-sm-block.d-none.nav-item > .nav-link
+heliumtracker.io##.alert-danger.alert
+heliumtracker.io##span.user-block-role:nth-of-type(3)
 
 ! https://www.justwatch.com
 www.justwatch.com##.promoted-buybox
