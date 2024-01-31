@@ -39,6 +39,9 @@ www.heise.de##.theme-heiseplus.xl\:z-\[var\(--z-index-sticky-footer--desktop\)\]
 www.heise.de##.article-sidebar__item--margin-top.article-sidebar__item.article-newsletter-subscription
 www.heise.de##.topnavigation__logo > .header-logo__plus-group
 
+! https://heliumtracker.io
+heliumtracker.io##.pointer-event.card.carousel
+
 ! https://www.justwatch.com
 www.justwatch.com##.promoted-buybox
 www.justwatch.com##.sponsored-recommendation-poster.title-poster

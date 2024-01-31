@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/betrügerische_se
 * feedly.com
 * finanzen100.de
 * heise.de
+* heliumtracker.io
 * justwatch.com
 * kleinanzeigen.de
 * krypto-magazin.de
