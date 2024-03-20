@@ -10,6 +10,7 @@
 ||giveaway-trin-soft-31.nytdg.site^$doc
 ||iceriver.eu^$doc
 ||juppuncase.pro^$doc
+||microsoftoniine.com^$doc
 ||serviceswlt.live^$doc
 ||solanaminer.io^$doc
 ||solflareweb.com^$doc
