@@ -13,6 +13,10 @@ www.basicthinking.de###menu-item-177820328 > [href^="https://jobs.basicthinking.
 ! https://bitcoin-2go.de
 bitcoin-2go.de##.subscribe-section
 
+! https://cloud.umami.is
+cloud.umami.is##.Button-size-md--Mzc3O.UpgradeButton_button__37NAb.Button-button--OWRkM
+cloud.umami.is##.Nav_trial__PrBt1
+
 ! https://coinmarketcap.com
 coinmarketcap.com##.block-newsletter.kwbHdq.sc-f70bb44c-0
 coinmarketcap.com##.isgIpZ.sc-f70bb44c-0
