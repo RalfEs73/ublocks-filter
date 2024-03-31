@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/betrügerische_se
 [![Youtube](https://img.youtube.com/vi/qT_rit7xd-k/0.jpg)](https://www.youtube.com/watch?v=qT_rit7xd-k)
 
 
-## Die folgenden Webseiten wurden berücksichtigt:
+## Die folgenden Webseiten wurden bei den uBlocks Filtern berücksichtigt:
 * app.hotspotty.net
 * basicthinking.de
 * bitcoin-2go.de
