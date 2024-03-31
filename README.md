@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/betrügerische_se
 * app.hotspotty.net
 * basicthinking.de
 * bitcoin-2go.de
+* cloud.umami.is
 * coinmarketcap.com
 * dexlab.space
 * feedly.com
