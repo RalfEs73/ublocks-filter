@@ -11,6 +11,7 @@
 ||iceriver.eu^$doc
 ||juppuncase.pro^$doc
 ||microsoftoniine.com^$doc
+||pccloud.com.de^$doc
 ||serviceswlt.live^$doc
 ||solanaminer.io^$doc
 ||solflareweb.com^$doc
