@@ -25,6 +25,10 @@ coinmarketcap.com##.isgIpZ.sc-f70bb44c-0
 ||ad-banner.walkmining.com/external/dexlab/walkmining_get_code.png$image
 ||ad-banner.walkmining.com/external/dexlab/walkmining_get_code_1256.png$image
 
+! https://dexscreener.com
+dexscreener.com##.custom-1l0hqwu
+dexscreener.com##.custom-jb38oj.chakra-stack
+
 ! https://feedly.com
 feedly.com##.TopHeaderBar
 feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(3)
