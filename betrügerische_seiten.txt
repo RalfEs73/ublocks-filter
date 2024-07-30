@@ -13,6 +13,7 @@
 ||microsoftoniine.com^$doc
 ||pccloud.com.de^$doc
 ||serviceswlt.live^$doc
+||smiithii.com^$doc
 ||solanaminer.io^$doc
 ||solflareweb.com^$doc
 ||solflarewebext.com^$doc
