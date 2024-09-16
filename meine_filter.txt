@@ -69,6 +69,9 @@ www.kleinanzeigen.de###viewad-details
 www.krypto-magazin.de##div.card.intextbox:nth-of-type(3)
 www.krypto-magazin.de##div.card.intextbox:nth-of-type(6)
 
+! https://www.mobiflip.de
+www.mobiflip.de##.embedpostwrapperlong
+
 !  https://www.nebenan.de
 nebenan.de##.KHCTIHUrZeSvmSf3z9Na
 nebenan.de##._6x940FSQtmxqz4OQrZl.ui-card
