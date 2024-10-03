@@ -1,0 +1,3 @@
+! Title: RalfEs Kindersicherung
+! Description: Filters optimized for uBlock.
+! Homepage: https://github.com/RalfEs73/ublocks-filter
