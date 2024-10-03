@@ -2,4 +2,4 @@
 ! Description: Filters optimized for uBlock.
 ! Homepage: https://github.com/RalfEs73/ublocks-filter
 
-||test.de^$doc
+||playboy.de^$doc
