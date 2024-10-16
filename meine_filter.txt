@@ -86,5 +86,9 @@ stakecube.net##.text-danger.text-center.d-block
 ! https://stepn.guide
 ||stepn.guide/img/banner_pc.webp$image
 
+! https://www.werstreamt.es
+www.werstreamt.es##.sdfrK
+www.werstreamt.es##.content-description-right
+
 ! https://www.zdnet.de
 www.zdnet.de##.nl
