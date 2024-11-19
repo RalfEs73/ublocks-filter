@@ -76,6 +76,9 @@ www.mobiflip.de##.embedpostwrapperlong
 nebenan.de##.KHCTIHUrZeSvmSf3z9Na
 nebenan.de##._6x940FSQtmxqz4OQrZl.ui-card
 nebenan.de##.ui-card.c-layout_menu > .c-layout_menu-banner.ui-media.QBDJ2r4nNvLl4dZ8uKsF
+nebenan.de##.r7LJSbFXnShvH1srHJDc
+nebenan.de##._sidebarRight_1sb5g_144 > .Ct6UEERaoVXkaYLOrXGs._root--border-radius_1pn8n_130._root_1pn8n_120 > .jgIp_zacZkxnobvcajid._root_csa15_120 > .QBDJ2r4nNvLl4dZ8uKsF
+nebenan.de##.c-layout_header_panel-label_donations.c-layout_header_panel-item > .ui-button-small.ui-button-primary.ui-button
 
 ! https://solsea.io
 solsea.io##.not-verified__InfoSection_2o5ly
