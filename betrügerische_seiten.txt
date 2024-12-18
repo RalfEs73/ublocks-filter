@@ -12,6 +12,7 @@
 ||juppuncase.pro^$doc
 ||microsoftoniine.com^$doc
 ||pccloud.com.de^$doc
+||pump-boards.web.app^$doc
 ||serviceswlt.live^$doc
 ||smiithii.com^$doc
 ||solanaminer.io^$doc
