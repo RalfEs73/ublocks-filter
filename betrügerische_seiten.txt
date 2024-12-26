@@ -4,6 +4,7 @@
 
 ||2024jup.vip^$doc
 ||akonline.info^$doc
+||boxfair.io^$doc
 ||collab-award.io^$doc
 ||collab-reward.pw^$doc
 ||deohdel.vip^$doc
