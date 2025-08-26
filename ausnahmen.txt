@@ -1,0 +1,9 @@
+chrome-extension-scheme
+moz-extension-scheme
+azure.com
+github.com
+microsoft.cloud
+microsoft.com
+office.com
+sharepoint.com
+zigarren-db.de
