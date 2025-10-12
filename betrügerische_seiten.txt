@@ -22,4 +22,6 @@
 ||solflarewebext.com^$doc
 ||wejfhs.sbs^$doc
 ||whitelist-vate-fenx-90.shlnk.site^$doc
+||marketplace-os2.com^$doc
+
 
