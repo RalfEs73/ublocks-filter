@@ -1,1 +1,12 @@
-1
+! Title: RalfEs AD Filter
+! Description: Filters optimized for uBlock.
+! Homepage: https://github.com/RalfEs73/ublocks-filter
+
+! app.hotspotty.net
+||cdn-001.hotspotty.xyz/marketing/banners/$image
+
+! basicthinking.de
+www.basicthinking.de##.newsletter-box
+www.basicthinking.de##.widget_bt_jobs2_widget.widget
+www.basicthinking.de###menu-item-177820328 > [href^="https://jobs.basicthinking.de//"]
+
