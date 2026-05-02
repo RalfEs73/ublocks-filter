@@ -4,6 +4,7 @@
 
 ||2024jup.vip^$doc
 ||akonline.info^$doc
+||bi20366.com^$doc
 ||boxfair.io^$doc
 ||collab-award.io^$doc
 ||collab-reward.pw^$doc
@@ -20,9 +21,8 @@
 ||solanaminer.io^$doc
 ||solflareweb.com^$doc
 ||solflarewebext.com^$doc
+||vutereck.com^$doc
 ||wejfhs.sbs^$doc
 ||whitelist-vate-fenx-90.shlnk.site^$doc
 ||marketplace-os2.com^$doc
 ||myremarkable.com^$doc
-||bi20366.com^$doc
-
