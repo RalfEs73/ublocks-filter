@@ -3,7 +3,7 @@
 Fügen den folgenden Link zu den uBlocks Filtern hinzu:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/meine_filter.txt
+https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/werbefilter.txt
 ```
 
 Es gibt noch einen weiteren Filter, für betrügersiche Seiten:
