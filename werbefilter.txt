@@ -13,6 +13,9 @@ www.basicthinking.de###menu-item-177820328 > [href^="https://jobs.basicthinking.
 ! bitcoin-2go.de
 bitcoin-2go.de##.subscribe-section
 
+! bitcoin.de
+www.bitcoin.de###dashboard_otc_trading_banner_teaser
+
 ! cloud.umami.is
 cloud.umami.is##.Button-size-md--Mzc3O.UpgradeButton_button__37NAb.Button-button--OWRkM
 cloud.umami.is##.Nav_trial__PrBt1
