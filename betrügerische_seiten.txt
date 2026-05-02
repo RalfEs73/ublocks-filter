@@ -2,6 +2,7 @@
 ! Description: Filters optimized for uBlock.
 ! Homepage: https://github.com/RalfEs73/ublocks-filter
 
+
 ||2024jup.vip^$doc
 ||akonline.info^$doc
 ||bi20366.com^$doc
@@ -12,7 +13,9 @@
 ||giveaway-trin-soft-31.nytdg.site^$doc
 ||iceriver.eu^$doc
 ||juppuncase.pro^$doc
+||marketplace-os2.com^$doc
 ||microsoftoniine.com^$doc
+||myremarkable.com^$doc
 ||pccloud.com.de^$doc
 ||pump-boards.web.app^$doc
 ||rectifyapp.net^$doc
@@ -24,5 +27,3 @@
 ||vutereck.com^$doc
 ||wejfhs.sbs^$doc
 ||whitelist-vate-fenx-90.shlnk.site^$doc
-||marketplace-os2.com^$doc
-||myremarkable.com^$doc
