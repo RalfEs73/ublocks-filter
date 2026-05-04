@@ -1,6 +1,6 @@
 ! Title: RalfEs AD Filter
 ! Description: Filters optimized for uBlock.
-! Homepage: https://github.com/RalfEs73/ublocks-filter
+! Homepage: https://github.com/RalfEs73/ublock-filter
 
 ! app.hotspotty.net
 ||cdn-001.hotspotty.xyz/marketing/banners/$image
