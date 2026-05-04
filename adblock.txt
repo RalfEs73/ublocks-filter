@@ -90,6 +90,7 @@ nebenan.de##.c-layout_header_panel-label_donations.c-layout_header_panel-item > 
 
 ! openfoodfacts.org
 de.openfoodfacts.org##.row.donation-banner
+de.openfoodfacts.org##.row.donation-banner-footer
 
 ! solsea.io
 solsea.io##.not-verified__InfoSection_2o5ly
