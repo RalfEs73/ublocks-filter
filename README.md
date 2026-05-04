@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/werbefilter.txt
 Es gibt noch einen weiteren Filter, für betrügersiche Seiten:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/betrügerische_seiten.txt
+https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/scam_seiten.txt
 ```
 
 ### Youtube Videoanleitung
