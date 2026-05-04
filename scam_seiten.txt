@@ -1,6 +1,8 @@
-! Title: RalfEs Badware
-! Description: Filters optimized for uBlock.
+! Title: RalfEs – uBlock Origin Badware Filter
+! Description: Filters optimized for malware, scam, phishing and tracking domains
+! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter
+! License: MIT
 
 
 ||2024jup.vip^$doc
