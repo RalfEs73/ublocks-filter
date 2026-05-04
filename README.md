@@ -1,15 +1,15 @@
-# uBlocks Filter
+# uBlock Origin Filter
 ## How to use
-Fügen den folgenden Link zu den uBlocks Filtern hinzu:
+Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/werbefilter.txt
+https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/werbefilter.txt
 ```
 
 Es gibt noch einen weiteren Filter, für betrügersiche Seiten:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublocks-filter/main/betrügerische_seiten.txt
+https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/betrügerische_seiten.txt
 ```
 
 ### Youtube Videoanleitung
