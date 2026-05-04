@@ -3,13 +3,13 @@
 Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/werbefilter.txt
+https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/adblock.txt
 ```
 
 Es gibt noch einen weiteren Filter, für betrügersiche Seiten:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/scam_seiten.txt
+https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/badware.txt
 ```
 
 ### Youtube Videoanleitung
