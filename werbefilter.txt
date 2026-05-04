@@ -1,6 +1,8 @@
-! Title: RalfEs AD Filter
-! Description: Filters optimized for uBlock.
+! Title: RalfEs – uBlock Origin Ads Filter
+! Description: Filters focusing on web advertising, banners, popups and sponsored content
+! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter
+! License: MIT
 
 ! app.hotspotty.net
 ||cdn-001.hotspotty.xyz/marketing/banners/$image
