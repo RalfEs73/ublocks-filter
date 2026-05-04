@@ -26,6 +26,11 @@ cloud.umami.is##.Nav_trial__PrBt1
 coinmarketcap.com##.block-newsletter.kwbHdq.sc-f70bb44c-0
 coinmarketcap.com##.isgIpZ.sc-f70bb44c-0
 
+! de.openfoodfacts.org
+de.openfoodfacts.org##.row.donation-banner
+de.openfoodfacts.org##.h-space-tiny.direction-row.v-align-center.v-space-short.flex-grid.small-12
+de.openfoodfacts.org##.row.donation-banner-footer
+
 ! dexlab.space
 ||ad-banner.walkmining.com/external/dexlab/walkmining_get_code.png$image
 ||ad-banner.walkmining.com/external/dexlab/walkmining_get_code_1256.png$image
