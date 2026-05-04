@@ -1,3 +1,11 @@
 chrome-extension-scheme
 moz-extension-scheme
 azure.com
+github.com
+microsoft.cloud
+microsoft.com
+microsoftalumni.com
+office.com
+ralfes.cloud
+sharepoint.com
+zigarren-db.de
