@@ -97,9 +97,6 @@ stakecube.net##.text-danger.text-center.d-block
 ! stepn.guide
 ||stepn.guide/img/banner_pc.webp$image
 
-! test.de
-test
-
 ! werstreamt.es
 www.werstreamt.es##.sdfrK
 www.werstreamt.es##.content-description-right
