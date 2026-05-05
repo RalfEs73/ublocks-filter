@@ -26,7 +26,6 @@
 ||solanaminer.io^$all
 ||solflareweb.com^$all
 ||solflarewebext.com^$all
-||test.de^$all
 ||vutereck.com^$all
 ||wejfhs.sbs^$all
 ||whitelist-vate-fenx-90.shlnk.site^$all
