@@ -2,6 +2,7 @@
 ! Description: Filters optimized for malware, scam, phishing and tracking domains
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter
+! Last modified: {{ $now.toUTC().toFormat("EEE, dd LLL yyyy HH:mm:ss ZZZ") }}
 ! License: MIT
 
 
