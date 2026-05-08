@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="275" alt="AdGuard Filters logo" src="https://cdn.adtidy.org/website/github.com/AdguardFilters/viking.svg" />
+</p>
+
 # uBlock Origin Filter
 ## How to use
 Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
