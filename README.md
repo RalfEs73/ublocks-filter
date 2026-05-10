@@ -7,13 +7,13 @@
 Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/adblock.txt
+https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/filters/adblock.txt
 ```
 
 Es gibt noch einen weiteren Filter, für betrügersiche Seiten:
 
 ```sh
-https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/badware.txt
+https://raw.githubusercontent.com/RalfEs73/ublock-filter/main/filters/badware.txt
 ```
 
 ### Änderungen der Listen
