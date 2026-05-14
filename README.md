@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin Filter
-Letzter Backup: 14.05.2026 11:36 Uhr
+Letzter Backup: 14.05.2026 11:37 Uhr
 
 ## How to use
 Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
