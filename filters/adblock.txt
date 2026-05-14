@@ -2,7 +2,7 @@
 ! Description: Filters focusing on web advertising, banners, popups and sponsored content
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter
-! Last modified: Thu, 14 May 2026 09:40:11 +0000
+! Last modified: Thu, 14 May 2026 14:00:55 +0000
 ! Expires: 1 day
 ! License: MIT
 
@@ -48,6 +48,8 @@ www.duolingo.com##._3D_HB > ._1T_BQ._2cnFr
 feedly.com##.TopHeaderBar
 feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(3)
 feedly.com##div.jtFbqIi4cr2NH1cMeDTP.LeftnavListRow.MockLink:nth-of-type(4)
+feedly.com##.ArticleAiActionsButton > .ttd9OnxwNDCiFtsXMqqf.GOmU_rnsX_csjiqAf8_X.GY7kyuwdjzFRoOpWwRn_.pw5rG38xWjWlltAAbr2w.PFoFo0GXuQmmO7WQ7DCw.zwPp9DCWpO_pA0T1FkGM
+feedly.com##.ttd9OnxwNDCiFtsXMqqf.UhasLk_20S5Du1FekOfM.LeftnavItem--selected.LeftnavItem.xZ8YzSGU3TmfWcUqXBdS.ppM3hMPXji51X6W_yfYp > .LeftnavItem__content.Qjq1PO9iR1pcvC8kEa7k.Gh5K0_DjtI_5KuvJ747A.bBpjw3M3dedNGZyxCbjX.thkzqqNrvY1aNL5OGp5S
 
 ! finanzen100.de
 www.finanzen100.de##.navigation_link_promo.mdl-navigation__link
