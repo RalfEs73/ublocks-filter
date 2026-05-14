@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin Filter
-Letzter Update der Listen: 14.05.2026 11:38 Uhr
+Letzter Update der Listen: 14.05.2026 11:40 Uhr
 
 ## How to use
 Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
