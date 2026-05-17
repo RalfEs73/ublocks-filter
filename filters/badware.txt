@@ -2,7 +2,7 @@
 ! Description: Filters optimized for malware, scam, phishing and tracking domains
 ! Author: Ralf Essbaumer
 ! Homepage: https://github.com/RalfEs73/ublock-filter
-! Last modified: Sat, 16 May 2026 23:00:39 +0000
+! Last modified: Sun, 17 May 2026 23:00:39 +0000
 ! Expires: 1 day
 ! License: MIT
 
