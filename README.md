@@ -3,7 +3,7 @@
 </p>
 
 # uBlock Origin Filter
-Letzter Update der Listen: 20.05.2026 11:47 Uhr
+Letzter Update der Listen: 20.05.2026 14:51 Uhr
 
 ## How to use
 Fügen den folgenden Link zu den uBlock Origin Filtern hinzu:
@@ -23,4 +23,4 @@ Wenn du eine Änderung der Listen haben möchtest, kannst du das [hier](https://
 
 
 ### Youtube Videoanleitung
-[![Youtube](https://img.youtube.com/vi/yhRbepUth2s/0.jpg)](https://www.youtube.com/watch?v=yhRbepUth2s)
+[![Youtube](https://img.youtube.com/vi/qT_rit7xd-k/0.jpg)](https://www.youtube.com/watch?v=qT_rit7xd-k)
