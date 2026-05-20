@@ -23,4 +23,4 @@ Wenn du eine Änderung der Listen haben möchtest, kannst du das [hier](https://
 
 
 ### Youtube Videoanleitung
-[![Youtube](https://img.youtube.com/vi/qT_rit7xd-k/0.jpg)](https://www.youtube.com/watch?v=qT_rit7xd-k)
+[![Youtube](https://img.youtube.com/vi/yhRbepUth2s/0.jpg)](https://www.youtube.com/watch?v=yhRbepUth2s)
